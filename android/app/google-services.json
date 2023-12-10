@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195571901335",
+    "project_id": "woodcalc-ie3",
+    "storage_bucket": "woodcalc-ie3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195571901335:android:cbec2767ee939a66335ad2",
+        "android_client_info": {
+          "package_name": "com.example.woodcalc_int_e3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgL1FyM6-bqUJWzuYEYrIzIaz0moPydU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
